@@ -38,15 +38,9 @@ The generated portfolio includes:
  * Social media contact information 
 
 
-<!-- ### Link to Walkthrough Video:
-
-> - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1UL_enQS1NUaSNOnWEJRAG2vYJFQae5Vr/view)
-> - [:movie_camera: Click Here for the downloaded MP4 video saved locally.](./src/demo-MP4.mp4)
-<!-- > - [:movie_camera: Click Here for the downloaded webm video saved locally.](./src/demo-webm.webm) -->
-
-<!-- :loop: Here's a GIF showing the app's overall functionality:
-
-<!-- ![demo](./src/demo.gif)  -->
+## UPDATES
+ * 2021-06: Forked from Class Project Organization
+ * 2021-08: Refactor to use React context  (in progress) 
 
 ## Table of Contents
 
@@ -68,7 +62,7 @@ Once I sign up or login, I have access to  Portfolio Generator sections for ente
 
 When I expand the Developer Information, I can specify my (required) name, (required) profile image, phone number, and a short, required "About Me" biography, as well as selecting from a large list of optional developer skills (and icons) that to include in the portfolio.
 
-When I expand the Social Medial section, I can optionallyl provide account urls for a variety of social media platforms.
+When I expand the Social Medial section, I can optionally provide account urls for a variety of social media platforms.
 
 When I expand the Projects section, I see a list of any projects that were previously specified, together with a button to add a new project. 
 
@@ -88,7 +82,7 @@ When I load my ``index.html`` file into a web browser, I see a single-page portf
 
 ## GitHub Repository Link:
 
->https://github.com/Portfolio-Generator/Portfolio-Generator
+>https://github.com/vloebel/Portfolio-Generator-1
 
 ## Instructions:
 
