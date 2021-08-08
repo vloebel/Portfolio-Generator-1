@@ -40,7 +40,7 @@ The generated portfolio includes:
 
 ## UPDATES
  * 2021-06: Forked from Class Project Organization
- * 2021-08: Refactor to use React context  (in progress) 
+ * 2021-08: Refactor to use React State  (in progress) 
 
 ## Table of Contents
 
